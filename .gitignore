@@ -3,7 +3,7 @@ Original--index.html
 
 1-EXAMPLE--DRF/
 old/
-
+.gitignore
 
 *.code-workspace
 static_cdn/
