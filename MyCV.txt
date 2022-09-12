@@ -1,0 +1,152 @@
+ 
+ 
+ 
+
+
+
+Hi, I'm Alan Sandford. Junior Developer.
+I'm an aspiring Junior Web Developer. I have always had a compultion towards "Tech" and computers, my first computer was a Commodore 64 so feel free to do the math..
+
+After 20+ years working in the Industrial Insulation and Metal Fabrication sector making use of a multitude of different automated machine systems such as various "Brake Press" and "Folding" machines to different generations of Mabi automated cutting and fabricating machines, i realised that in another 10 years all fabricators will need to learn at least a little Python and maybe some JavaScipt along with some networking and possibly some Machine Learning Modeling.
+
+This is what inspired me to refocus my attention on my software development skills by building a few different web site's, Api's and databases in order to familiarise myself with standard work practices such as automated testing and CL/CD .
+
+Download CV 
+About me my stats
+Information About me
+I have always had a compultion towards "Tech" and computers, my first computer was a Commodore 64 so feel free to do the math..
+
+Having witnessed the begining of the "World Wide Web" and watching the speed at which it has evolved in a very short time im now absolutley enfatuated with the manner in which we are storing, updating and accesing information globaly in an instance.
+
+The "Api" seems to be the medium worthy of most attention. From earthquake warning systems to a sensor in your fridge that tells you when to buy cheese.
+
+Download CV 
+657+
+
+FUCKS
+Not Given
+
+42+
+
+Years of
+experience
+
+300+
+
+Customer
+reviews
+
+-400
+
+Happy
+Clients
+
+My Skills
+html5
+
+80%
+
+css3
+
+25%
+
+Python
+
+75%
+
+Django
+
+65%
+
+Fastapi
+
+45%
+
+Javascript
+
+20%
+
+ReactJS
+
+20%
+
+NodeJS
+
+15%
+
+Linux
+
+65%
+
+My Timeline
+Freelance From 2020 -> present
+
+Web Developer
+Learned Python then Django and now we're here.
+
+KAS From 2019 -> 2020
+
+Industrial Insulator
+Insulation of general services in comercial projects, Worked mainly on the Amazon datacenter in Tallaght.
+
+I.E.S. From 2016 -> 2019
+
+Industrial Insulator
+Based in the workshop in Dublin for fabrication purposes i also, INTEL ASTELLAS COLFIX DIAGEO COCACOLA-WEXFORD.
+
+Secon From 2015 -> 2016
+
+Industrial Insulator
+Worked on Industrial pharmaceutical projects such as BMS and Mallinckrodt in Blanchardstown. Commercial projects such as LinkedIn Dublin offices and Henkle in Tallaght
+
+I.E.S. From 2013 -> 2015
+
+Industrial Insulator
+Based in the workshop in Dublin for fabrication purposes i also, Worked on Industrial projects such as Intel Leixlip, Diageo James Gate and Avondale Pharmaceutical in Wicklow
+
+Dunne Electrical From 2012 -> 2013
+
+General operative (Network Engineer)
+While working for Dunne i took part in a range of projects from domestic rewire's to industrial networking projects.
+
+Complex From 2011 -> 2011
+
+Dev-Ops / Com-Sec
+While working for complex i peformed a number of IT duties such as Dev-Ops, Com-Sec, ///////////////////////.
+
+Claddagh Metal Services From 2009 -> 2010
+
+Industrial Insulator
+COMERCIAL HOTELS OFFICES APPARTMENTS .
+
+Hertel From 2008 -> 2009
+
+Industrial Insulator
+Worked on Industrial Pharmaceutical projects such as BMS Swords and Avondale Pharmaceutical in Wicklow.
+
+Wheelan Insulations From 2004 -> 2006
+
+Industrial Insulator
+Worked on large commercial projects such as Hanover Quay and Dundrum Shopping center.
+
+BIS Willich From 2003 To 2004
+
+Industrial Insulator
+Based in the workshop in Dublin for fabrication purposes i also, Worked on industrial projects such as and Coca-Cola's manufacturing plant in galway, power stations suh as Poolbeg, Huntstown, Tarbert, Ferbane and Whitegate and also Pharmaceuticals such as Avondale in wicklow .
+
+BIS Willich from 1999 -> 2003
+
+Apprentice Industrial Insulator
+While mainly based in workshop learning metal fabrication i would also tarvel to different sites to perform a range of different tasks such as the Insulation, Cladding and Measurement of pipework and vessels , Fireproofing , Soundproofing , Roofing and Environmental Cleaning .
+
+IBM From 1998 To 1999
+
+Warehouse Operative
+While working as an operative i got a chance to observe and participate in the construction of "T3" servers in a large scale production environment.
+
+Primo Service Station From 1995 To 1998
+
+Shop Assistant
+While working as a shop assistant my responsibilities would include the managment of cash, stock control, and organisation of forcourt staff for various tasks.
+
+My PortfolioMy Work
